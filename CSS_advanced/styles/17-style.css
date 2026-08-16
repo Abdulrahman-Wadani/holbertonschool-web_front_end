@@ -94,7 +94,7 @@ a:active {
 }
 
 .section-body {
-    padding-bottom: var(--section-body-paddingg);
+    padding-bottom: var(--section-body-padding);
     padding-top: var(--section-body-paddingding);
     padding-right: var(--section-body-padding);
     padding-left: var(--section-body-padding);
